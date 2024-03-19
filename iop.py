@@ -1,4 +1,4 @@
-# Welcome to the IOP (Input/Output Processor) module.
+# Welcome to the IOP (Input/Output Processer) module.
 
 import json, dotenv, os, telebot
 
